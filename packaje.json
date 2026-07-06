@@ -1,0 +1,6 @@
+{
+  "name": "estudio-ntics",
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  }
+}
